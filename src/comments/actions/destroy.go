@@ -3,8 +3,8 @@ package commentactions
 import (
 	"github.com/fragmenta/router"
 
-	"github.com/kennygrant/gohackernews/src/comments"
-	"github.com/kennygrant/gohackernews/src/lib/authorise"
+	"comments"
+	"lib/authorise"
 )
 
 // HandleDestroy handles a DESTROY request for comments

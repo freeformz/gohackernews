@@ -1,0 +1,92 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/bamiaux/rez",
+			"repository": "https://github.com/bamiaux/rez",
+			"revision": "5749ce8a13b16087dede0b885db6bf13d0c04c38",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/fragmenta/assets",
+			"repository": "https://github.com/fragmenta/assets",
+			"revision": "96418deae20195008b2aafd5781b9ef3aeaba4a5",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/fragmenta/auth",
+			"repository": "https://github.com/fragmenta/auth",
+			"revision": "f524f8113a22f94641cd0ab9e71b547b40a38454",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/fragmenta/model",
+			"repository": "https://github.com/fragmenta/model",
+			"revision": "ee851cc0c8857f9b3c1846c2e238a5d6a0426eeb",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/fragmenta/query",
+			"repository": "https://github.com/fragmenta/query",
+			"revision": "8e3447f9df56e4f6de0ddbcce64d4be721dae31b",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/fragmenta/router",
+			"repository": "https://github.com/fragmenta/router",
+			"revision": "f8dfa263dca96a7ac3b6d9eca45ee9bf6a74904f",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/fragmenta/server",
+			"repository": "https://github.com/fragmenta/server",
+			"revision": "bcb4ecd95ca9bc360271b50a0be7bf853c3bbbd4",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/fragmenta/view",
+			"repository": "https://github.com/fragmenta/view",
+			"revision": "222c2b2376ec5ec45fd0f18289c26b6748b2cde6",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/go-sql-driver/mysql",
+			"repository": "https://github.com/go-sql-driver/mysql",
+			"revision": "267b128680c46286b9ca13475c3cca5de8f79bd7",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/kennygrant/sanitize",
+			"repository": "https://github.com/kennygrant/sanitize",
+			"revision": "ce9fd1f6ce32afaa38b51feea32320fc8875e8e4",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/lib/pq",
+			"repository": "https://github.com/lib/pq",
+			"revision": "69552e54d2a9d4c6a2438926a774930f7bc398ec",
+			"branch": "master"
+		},
+		{
+			"importpath": "golang.org/x/crypto/bcrypt",
+			"repository": "https://go.googlesource.com/crypto",
+			"revision": "1f22c0103821b9390939b6776727195525381532",
+			"branch": "master",
+			"path": "/bcrypt"
+		},
+		{
+			"importpath": "golang.org/x/crypto/blowfish",
+			"repository": "https://go.googlesource.com/crypto",
+			"revision": "1f22c0103821b9390939b6776727195525381532",
+			"branch": "master",
+			"path": "/blowfish"
+		},
+		{
+			"importpath": "golang.org/x/net/html",
+			"repository": "https://go.googlesource.com/net",
+			"revision": "7f88271ea9913b72aca44fa7fc8af919eacc17ce",
+			"branch": "master",
+			"path": "/html"
+		}
+	]
+}

@@ -1,10 +1,11 @@
 package app
 
 import (
+	"comments/actions"
+	"stories/actions"
+	"users/actions"
+
 	"github.com/fragmenta/router"
-	"github.com/kennygrant/gohackernews/src/comments/actions"
-	"github.com/kennygrant/gohackernews/src/stories/actions"
-	"github.com/kennygrant/gohackernews/src/users/actions"
 )
 
 // Define routes for this app

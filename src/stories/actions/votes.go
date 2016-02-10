@@ -6,9 +6,9 @@ import (
 	"github.com/fragmenta/query"
 	"github.com/fragmenta/router"
 
-	"github.com/kennygrant/gohackernews/src/lib/authorise"
-	"github.com/kennygrant/gohackernews/src/stories"
-	"github.com/kennygrant/gohackernews/src/users"
+	"lib/authorise"
+	"stories"
+	"users"
 )
 
 // HandleFlag handles POST to /stories/123/flag

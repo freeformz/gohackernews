@@ -4,7 +4,7 @@ import (
 	"github.com/fragmenta/router"
 	"github.com/fragmenta/view"
 
-	"github.com/kennygrant/gohackernews/src/comments"
+	"comments"
 )
 
 // HandleShow displays a single comment

@@ -12,7 +12,7 @@ import (
 	"github.com/fragmenta/query"
 	"github.com/fragmenta/router"
 
-	"github.com/kennygrant/gohackernews/src/lib/status"
+	"lib/status"
 )
 
 // User represents a user of the service

@@ -3,8 +3,8 @@ package useractions
 import (
 	"github.com/fragmenta/router"
 
-	"github.com/kennygrant/gohackernews/src/lib/authorise"
-	"github.com/kennygrant/gohackernews/src/users"
+	"authorise"
+	"users"
 )
 
 // HandleDestroy responds to POST /users/1/destroy
