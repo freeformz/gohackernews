@@ -1,0 +1,71 @@
+{
+	"ImportPath": "github.com/kennygrant/gohackernews",
+	"GoVersion": "go1.6",
+	"Packages": [
+		"."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/fragmenta/assets",
+			"Comment": "v1.3",
+			"Rev": "96418deae20195008b2aafd5781b9ef3aeaba4a5"
+		},
+		{
+			"ImportPath": "github.com/fragmenta/auth",
+			"Comment": "v1.4-2-gf524f81",
+			"Rev": "f524f8113a22f94641cd0ab9e71b547b40a38454"
+		},
+		{
+			"ImportPath": "github.com/fragmenta/model",
+			"Comment": "v1.3-4-gee851cc",
+			"Rev": "ee851cc0c8857f9b3c1846c2e238a5d6a0426eeb"
+		},
+		{
+			"ImportPath": "github.com/fragmenta/query",
+			"Comment": "v1.3.3",
+			"Rev": "8e3447f9df56e4f6de0ddbcce64d4be721dae31b"
+		},
+		{
+			"ImportPath": "github.com/fragmenta/router",
+			"Comment": "v1.3.2-2-gf8dfa26",
+			"Rev": "f8dfa263dca96a7ac3b6d9eca45ee9bf6a74904f"
+		},
+		{
+			"ImportPath": "github.com/fragmenta/server",
+			"Comment": "v1.4",
+			"Rev": "bcb4ecd95ca9bc360271b50a0be7bf853c3bbbd4"
+		},
+		{
+			"ImportPath": "github.com/fragmenta/view",
+			"Comment": "v1.4",
+			"Rev": "222c2b2376ec5ec45fd0f18289c26b6748b2cde6"
+		},
+		{
+			"ImportPath": "github.com/go-sql-driver/mysql",
+			"Comment": "v1.2-171-g267b128",
+			"Rev": "267b128680c46286b9ca13475c3cca5de8f79bd7"
+		},
+		{
+			"ImportPath": "github.com/kennygrant/sanitize",
+			"Comment": "v1.0",
+			"Rev": "ce9fd1f6ce32afaa38b51feea32320fc8875e8e4"
+		},
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Comment": "go1.0-cutoff-81-g69552e5",
+			"Rev": "69552e54d2a9d4c6a2438926a774930f7bc398ec"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/bcrypt",
+			"Rev": "1f22c0103821b9390939b6776727195525381532"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/blowfish",
+			"Rev": "1f22c0103821b9390939b6776727195525381532"
+		},
+		{
+			"ImportPath": "golang.org/x/net/html",
+			"Rev": "7f88271ea9913b72aca44fa7fc8af919eacc17ce"
+		}
+	]
+}
